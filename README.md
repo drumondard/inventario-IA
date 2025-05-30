@@ -2,6 +2,8 @@
 
 Este projeto utiliza técnicas de Inteligência Artificial para [descreva o objetivo principal do seu projeto, como classificação de imagens, previsão de séries temporais, etc.]. Abaixo você encontra as informações necessárias para rodar, contribuir e entender o projeto.
 
+>> https://drumondard.github.io/inventario-IA/
+
 ## Objetivo
 
 O objetivo deste projeto é [descrever brevemente o que o projeto visa alcançar]. 
